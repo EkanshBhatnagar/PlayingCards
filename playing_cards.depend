@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1624182221 source:c:\users\ekans\onedrive\documents\projects\playing_cards\main.cpp
+	<iostream>
+	"CardStack.h"
+
+1624188650 c:\users\ekans\onedrive\documents\projects\playing_cards\include\cardstack.h
+	<iostream>
+	<vector>
+	<random>
+	<ctime>
+	<string>
+	<algorithm>
+
+1624178717 source:c:\users\ekans\onedrive\documents\projects\playing_cards\src\cardstack.cpp
+	"CardStack.h"
+
